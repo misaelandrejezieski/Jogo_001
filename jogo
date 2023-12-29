@@ -1,5 +1,5 @@
 import random
-
+// Jogo de adivinhar números em Python....
 def jogo_da_adivinhacao():
     numero_secreto = random.randint(1, 1000)
     tentativas = 0
